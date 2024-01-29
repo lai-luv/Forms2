@@ -17,7 +17,7 @@ const inputs =[
     name:"username",
     type:"text",
     placeholder:"username",
-    lable:"username"
+    label:"username"
 
   },
   {
@@ -25,7 +25,7 @@ const inputs =[
     name:"email",
     type:"text",
     placeholder:"email",
-    lable:"email"
+    label:"email"
 
   },
   {
@@ -33,7 +33,7 @@ const inputs =[
     name:"firstname",
     type:"text",
     placeholder:"firstname",
-    lable:"firstname"
+    label:"firstname"
 
   },
   {
@@ -41,7 +41,7 @@ const inputs =[
     name:"password",
     type:"password",
     placeholder:"password",
-    lable:"password"
+    label:"password"
 
   },
   {
@@ -49,7 +49,7 @@ const inputs =[
     name:"confirmPassword",
     type:"password",
     placeholder:"confirmPassword",
-    lable:"confirmPassword"
+    label:"confirmPassword"
 
   }
 ]
