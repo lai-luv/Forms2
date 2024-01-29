@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: 
+   url('https://www.yourtango.com/sites/default/files/image_list/2taurus_126.jpg');
+   background-size: cover;
+  background-position: center 
 }
 
 code {

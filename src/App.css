@@ -1,7 +1,32 @@
-.app{
+.app {
   display: flex;
   align-items: center;
   justify-content: center;
   width: 30%;
   margin: 8em auto;
+  background: url('https://www.yourtango.com/sites/default/files/image_list/2taurus_126.jpg');
+  flex-direction: column;
+  background-size: cover;
+  background-position: center ;
+  border-radius:  90px;
+  padding: 40px 10px;
+  align-items: center
+};
+
+h1{
+  color: hotpink;
+}
+button{
+  width: 50%;
+  height: 25%;
+  padding: 10px;
+  background-color: rgb(205, 229, 21);
+  color: rgb(65, 22, 152);
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 18px;
+  cursor: pointer;
+  margin: 15px 30px;
+
 }
